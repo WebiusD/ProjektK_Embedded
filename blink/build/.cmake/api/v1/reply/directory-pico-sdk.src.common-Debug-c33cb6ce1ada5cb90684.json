@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/common",
+		"source" : "/home/webius/Desktop/pico-dev/pico/pico-sdk/src/common"
+	}
+}
